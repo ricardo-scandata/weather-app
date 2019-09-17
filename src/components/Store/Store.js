@@ -1,6 +1,6 @@
 import React from 'react';
 //reducer
-import { weatherReducer } from "./reducers/weatherReducer";
+import { weatherReducer } from "../../components/WeatherReducer/WeatherReducer";
 
 //create the store
 export const Store = React.createContext(); 

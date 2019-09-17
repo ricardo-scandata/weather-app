@@ -1,5 +1,5 @@
 import React from 'react';
-import Main from "./components/main";
+import Main from "./components/Main/Main";
 import image from "./image1.svg";
 
 function App() {
